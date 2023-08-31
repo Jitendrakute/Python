@@ -1,0 +1,19 @@
+2023-08-31 22:23:16,828 :INFO : test_formsubmission :First Name Is Sukh
+2023-08-31 22:23:16,988 :INFO : test_formsubmission :Email Is sk@gmail.com
+2023-08-31 22:23:17,090 :INFO : test_formsubmission :Password Is 852
+2023-08-31 22:23:24,408 :INFO : test_e2e :gettting all cart details
+2023-08-31 22:23:24,467 :INFO : test_e2e :iphone X
+2023-08-31 22:23:24,486 :INFO : test_e2e :Samsung Note 8
+2023-08-31 22:23:24,502 :INFO : test_e2e :Nokia Edge
+2023-08-31 22:23:24,519 :INFO : test_e2e :Blackberry
+2023-08-31 22:23:25,035 :INFO : test_e2e :Entering Country Name as ind
+2023-08-31 22:23:30,401 :INFO : test_e2e :country selected as India
+2023-08-31 22:23:30,656 :INFO : test_e2e :Success!
+2023-08-31 23:09:30,804 :INFO : test_e2e :gettting all cart details
+2023-08-31 23:09:30,874 :INFO : test_e2e :iphone X
+2023-08-31 23:09:30,901 :INFO : test_e2e :Samsung Note 8
+2023-08-31 23:09:30,926 :INFO : test_e2e :Nokia Edge
+2023-08-31 23:09:30,981 :INFO : test_e2e :Blackberry
+2023-08-31 23:09:31,432 :INFO : test_e2e :Entering Country Name as ind
+2023-08-31 23:09:36,869 :INFO : test_e2e :country selected as India
+2023-08-31 23:09:37,090 :INFO : test_e2e :Success!
